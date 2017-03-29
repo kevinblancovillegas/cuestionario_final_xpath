@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <!DOCTYPE questions SYSTEM "dtd.dtd">
+
+<questions>
+	
+<question id='bodatoda001'>
+<type>text</type>
+		<title>¿La especie humana y los mamuts compartieron hábitat?</title>
+			<answer>si</answer>
+</question>
+	
+	
+<question id='bodatoda002'> 
+	<type>text</type>
+		<title>7.- ¿En honor de qué dios griego se celebraban los Juegos Olímpicos? (Poseidón, Zeus, Apolo, Heracles)</title>
+	<answer>Zeus</answer>
+</question>
+			
+	
+<question id='bodatoda003'>
+	<type>checkbox</type>
+	<title>11.- ¿Cuáles fueron las posesiones del reino español en el siglo XVI?</title>
+		<option>Toda América Latina</option>
+		<option>América Latina excepto Argentina</option>
+		<option>América Latina excepto Brasil</option>
+	<answer>2</answer> 
+</question>
+	
+	
+<question id='bodatoda004'>
+<type>checkbox</type>
+	<title>El hombre de Cro-Magnon se extinguió debido principalmente a:</title>
+		<option>a) Cambios Climáticos</option>
+		<option>b) Guerras y Mestizaje</option>
+		<option>c) Enfermedades</option>
+	<answer>1</answer>
+</question>
+		
+<question id='bodatoda005'>
+	<type>select</type>
+	<title>5.- ¿Qué Edad de la Historia tuvo una época que se caracterizaba por el ideal de belleza y perfección?</title>
+		<option>a) Edad Media</option>
+		<option>b) Edad Moderna y Contemporánea</option>
+		<option>c) Prehistoria</option>
+		<option>d) Antigua</option>
+	<answer>3</answer> 
+</question>
+
+<question id='bodatoda006'>
+	<type>select</type>
+	<title>13.- En América, ¿qué territorio descubrieron y colonizaron los portugueses?</title>
+		<option>a) Brasil</option>
+		<option>b) Chile</option>
+		<option>c) Argentina</option>
+	<answer>0</answer>
+</question>
+
+<question id='bodatoda007'>
+	<type>radio</type>
+	<title>6.- ¿Cuándo se fundó Roma?</title>
+		<option>a) Enero de 69 a.C.</option>
+		<option>b) Junio de 323 a.C.</option>
+		<option>c) Abril de 753 ó 752 a.C.</option>
+		<option>d) Agosto de 480 a.C.</option>
+	<answer>2</answer>
+</question>
+	
+
+<question id='bodatoda008'>
+	<type>radio</type>
+	<title>¿Cuál fue el primer homínido?</title>
+		<option>a) Homo Erectus</option>
+		<option>b) Homo Habilis</option>
+		<option>c) Australopithecus</option>
+	<answer>2</answer>
+</question>
+	
+
+<question id='bodatoda009'>
+	<type>multiple</type>
+	<title>9.- En el periodo medieval, era el estamento más alto después del rey. No pagaban impuestos. ¿A qué grupo social corresponde la descripción?</title>
+		<option>a) Los campesinos</option>
+		<option>b) El clero</option>
+		<option>c) La nobleza</option>
+		<option>d) Señores feudales</option>
+	<answer>2</answer>	
+	<answer>3</answer>
+</question>
+
+<question id='bodatoda010'>
+	<type>multiple</type>
+	<title>10.- Cuando no había guerra declarada, ¿qué distracciones tenían los señores?</title>
+		<option>a) Cacerías, justas y torneos</option>
+		<option>b) Las Cruzadas</option>
+		<option>c) Asistiendo a misa</option>
+		<option>d) Canciones de trovadores</option>
+	<answer>0</answer>
+	<answer>3</answer>
+</question>
+
+</questions>
+

@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Courgette', cursive;
+	background: url("../img/fondo.jpg") repeat ; 
+}
+header{
+
+	margin: 0 auto;
+	background: #c2c2c2;
+	padding: 2%;
+}
+footer{
+	background: black;
+	color: white;
+}
+.footer1, .footer2, .footer3{
+	width: 30%;
+	display: inline-block;
+	text-align: center;
+}
+#logo{
+	width: 30%;
+	display: inline-block;
+}
+#logo img{
+	width: 100%;
+}
+.titulo{
+	width: 60%;
+	display: inline-block;
+	text-align: right;
+	vertical-align: top;
+}
+.titulo h1{
+	font-size: 52px;
+}
+.cuerpo{
+	width: 70%;
+	margin: 0 auto;
+	border: solid #c2c2c2;
+	background: white;
+	padding: 2%;
+}
+h3{
+	font-size: 24px;
+}
+
+input[type="submit"]{
+	width: 50%;
+	margin: 0 auto;
+	margin-left: 25%;
+	font-size: 32px;
+}
+#text1, #text2, #sel1, #sel2{
+	width: 100%;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#mul1, #mul2{
+	width: 100%;
+	border-radius: 5px;
+    font-size: 20px;
+}
+label{
+	font-size: 20px;
+}
+#instrucciones{
+	padding: 5% 10% 0 10%;
+	text-align:center;
+	background: 
+}
+
+
+/*MEDIA QUERIES PARA RESPONSIVE MOBILE*/
+@media (max-width: 900px) {
+	#logo, .titulo{
+		width: 90%;
+	}
+	.titulo h1{
+		font-size: 30px;
+	}
+	.cuerpo {
+	    width: 90%;
+	}
+	input[type="submit"] {
+	    width: 50%;
+	    margin: 0 auto;
+	    margin-left: 25%;
+	    font-size: 20px;
+	}
+}
